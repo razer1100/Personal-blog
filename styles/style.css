@@ -6,7 +6,6 @@ html{
   padding: 0;
   box-sizing: border-box;
   font-family: "Gluten", serif;
-  width : 100%;
 }
 header {
   background: url("../imgs/home.jpg") center center/cover fixed no-repeat;
